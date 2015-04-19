@@ -1,22 +1,32 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Old stuff
+menuhidden: 1
+permalink: /old-stuff/
 ---
 
 
 ##Story Manager - 03/2015
 Moteur d'histoires interatives en javascript.
 
+<img src="http://michelorgaz.com/storage/cache/images/000/022/demo-title-screen,340.204.85.60.crop.1413234956.jpg" />
+
 ##Super platformer - 10/2014 à 02/2015
 Jeu de plateformes créé avec Unity. Génération de niveaux aléatoires, différentes armes, pièges et effets actifs aléatoires. Premier niveau disponible uniquement. Projet mis en pause.
 Read more
 
+<img src="http://michelorgaz.com/storage/cache/images/000/022/demo-title-screen,340.204.85.60.crop.1413234956.jpg" />
+
 ##Zero Battle - 08/2014 à 10/2014
 Concept arts. Battle game point and click temps réel en équipe, créé avec Unity pour tablettes et smartphones. Travail en binome. Projet abondonné.
 
+<img src="http://michelorgaz.com/storage/cache/images/000/022/demo-title-screen,340.204.85.60.crop.1413234956.jpg" />
+
 ##Duane and BrandO - The Game - 09/2013
 Concept arts pour un jeu de plateforme du groupe The Adventure of Duane and BrandO. Projet annulé.
+
+<img src="http://michelorgaz.com/storage/cache/images/000/022/demo-title-screen,340.204.85.60.crop.1413234956.jpg" />
+<img src="http://michelorgaz.com/storage/cache/images/000/022/demo-title-screen,340.204.85.60.crop.1413234956.jpg" />
 
 ##War64 - 07/2013
 Site de jeu d’échec en ligne. Développement en binome. Php 5, Javascript.

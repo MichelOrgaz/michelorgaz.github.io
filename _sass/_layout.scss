@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    border-top: 5px solid $color-2;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -99,6 +99,7 @@
 .footer-heading {
     font-size: 18px;
     margin-bottom: $spacing-unit / 2;
+    color: $text-color;
 }
 
 .contact-list,
@@ -185,7 +186,7 @@
 
 .post-link {
     display: block;
-    font-size: 24px;
+    font-size: 18px;
 }
 
 
@@ -198,7 +199,7 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 32px;
     letter-spacing: -1px;
     line-height: 1;
 
@@ -208,29 +209,23 @@
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit;
+}
 
-    h2 {
-        font-size: 32px;
+h2 {
+    font-size: 22px;
+    color: $my-color;
+    font-family: Cuprum;
+}
 
-        @include media-query($on-laptop) {
-            font-size: 28px;
-        }
-    }
+h3 {
+    font-size: 18px;
+    color: $color-2;
+    font-family: Cuprum;
+}
 
-    h3 {
-        font-size: 26px;
-
-        @include media-query($on-laptop) {
-            font-size: 22px;
-        }
-    }
-
-    h4 {
-        font-size: 20px;
-
-        @include media-query($on-laptop) {
-            font-size: 18px;
-        }
-    }
+h4 {
+    font-size: 17px;
+    color: $my-color;
+    font-family: Cuprum;
 }

@@ -1,3 +1,15 @@
+
+$my-color: #EC0050;
+$my-color-type1: #F78D00;
+
+$color-2 :#B67189;
+
+$font-special-1: 'Roboto';
+$font-special-2: 'Cuprum';
+
+$brand-color: #0095B8;
+$brand-color-altered: #0095B8;
+
 /**
  * Reset some basic elements
  */
@@ -21,8 +33,12 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    font-family: $font-special-1, arial;
 }
 
+p{
+  color: #747474;
+}
 
 
 /**
@@ -35,6 +51,13 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
+/**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+h1, h2, h3, h4, h5, h6
+%vertical-rhythm {
+  margin-bottom: 0;
+}
 
 
 /**
@@ -90,15 +113,15 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
     color: $brand-color;
-    text-decoration: none;
+    text-decoration: underline;
 
     &:visited {
-        color: darken($brand-color, 15%);
+      color: $brand-color-altered;
     }
 
     &:hover {
         color: $text-color;
-        text-decoration: underline;
+        text-decoration: none;
     }
 }
 

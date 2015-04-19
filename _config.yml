@@ -1,6 +1,6 @@
 # Site settings
 title: Michel Orgaz
-email: postmater@michelorgaz.com
+email: postmater at' michelorgaz dot' com
 description: > # this means to ignore newlines until "baseurl:"
   Michel Orgaz website and blog
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -10,3 +10,4 @@ github_username:  michelorgaz
 
 # Build settings
 markdown: kramdown
+permalink: /posts/:year/:month/:day/:title/
