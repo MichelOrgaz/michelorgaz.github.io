@@ -17,8 +17,8 @@ The game is a classic speedrun platformer with 28 levels to go through.
 
 ##Gallery
 <div class="gallery">
+  <!-- plugin lightslider : http://sachinchoolur.github.io/lightslider/examples.html -->
   <img src="/images/old-stuff/aawtg/demo_title_screen.jpg" />
-  <img src="/images/old-stuff/aawtg/Sans titre-3.jpg" />
   <img src="/images/old-stuff/aawtg/screenshot100.png" />
   <img src="/images/old-stuff/aawtg/screenshot101.png" />
   <img src="/images/old-stuff/aawtg/screenshot102.png" />

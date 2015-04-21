@@ -1,12 +1,13 @@
 ---
 layout: page
 title: About me
-menuhidden: 1
+menuhidden: 0
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello, I'm a 30' french web developper.
+My main goal is to produce cool stuff by working again after my day job. I also want to improve my skills and be a better person.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I spent a lot of my hobby time making "indie" video games, using Game Maker and Unity, and drawings. Now I concentrate on web development.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+So many things in the world are interesting... and I have not enough time. Experience of programming is a really good deal to catch many of them. Let's go!
