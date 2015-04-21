@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 Hello, I'm a 30' french web developper.
-My main goal is to produce cool stuff by working again after my day job. I also want to improve my skills and be a better person.
+My main goal is to produce cool stuff. I code everyday during and after my day job. I want to improve my skills and be a better person.
 
 I spent a lot of my hobby time making "indie" video games, using Game Maker and Unity, and drawings. Now I concentrate on web development.
 
